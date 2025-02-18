@@ -1,0 +1,3 @@
+Neon database url = https://console.neon.tech/app/projects/sweet-tree-59971720/branches/br-quiet-morning-a8mqcglc/tables?database=Scriptify
+
+Database url: https://local.drizzle.studio/
